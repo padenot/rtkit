@@ -46,7 +46,7 @@ NOTES:
         resource limits and chroot() to minimize its security impact.
 
         RealtimeKit probably has little use in embedded or server use
-        cases, use RLIMIT_RTPRIO tehre instead.
+        cases, use RLIMIT_RTPRIO there instead.
 
 WHY:
         If processes that have real-time scheduling privileges enter a
